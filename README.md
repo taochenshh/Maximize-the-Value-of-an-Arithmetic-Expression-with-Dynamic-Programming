@@ -2,19 +2,19 @@
 
 Use dynamic programming method to find the maximum possible value for the given arithmetic expression by adding parenthese.
 
-###Input:
+### Input:
 A string of length 2n+1 with digits at even positions and {+,-,*} at odd positions
 
-###Output:
+### Output:
 maximum value
 
 
-###Example:
-####Input:
+### Example:
+#### Input:
 ```
 5-8+7*4-8+9
 ```
-####Output:
+#### Output:
 ```
 200
 ```
